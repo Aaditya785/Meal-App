@@ -1,4 +1,5 @@
 //Initial References
+window.alert("Type a dish Name then click search.");
 const mealListElement = document.querySelector('#meal-list');
 const mealInputElement = document.querySelector('#user-inp');
 function fetchMeals(){
